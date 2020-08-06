@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin Calculator</string>
+    <string name="log">log</string>
+    <string name="type_base">밑 입력</string>
+    <string name="type_exponent">지수 입력</string>
+    <string name="input_complete">입력 완료</string>
+    <string name="result_here">여기에 결과값이 표시됩니다</string>
+    <string name="auto2fill">밑 2 자동삽입</string>
+    <string name="auto10fill">밑 10 자동삽입</string>
+    <string name="del_all">모두 비우기</string>
+</resources>
